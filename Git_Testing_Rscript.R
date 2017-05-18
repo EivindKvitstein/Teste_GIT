@@ -1,6 +1,7 @@
 #Test fil
-ss
+# Har brukt git checkout -b branch_test
+-b lager ny branch, og navnet er branch_test
 
-#Skulle skrive noe her
+#Endring inni branch og master
 
-SS
+git push --set-upstream origin <branch-name>
