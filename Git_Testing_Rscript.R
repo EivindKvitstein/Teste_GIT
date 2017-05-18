@@ -1,6 +1,3 @@
 #Test fil
-ss
-
-#Skulle skrive noe her
-
-SS
+# Har brukt git checkout -b branch_test
+-b lager ny branch, og navnet er branch_test
