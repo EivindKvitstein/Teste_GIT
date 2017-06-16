@@ -5,3 +5,5 @@
 #Endring inni branch og master
 
 git push --set-upstream origin <branch-name>
+  
+  #Hallo på du
